@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Karantina', cursive;
+}
+body {
+    width: 100vw;
+    height: 100vh;
+}
+.container {
+    width: 100vw;
+    height: 100vh;
+}
+.container p {
+    font-size: 50px;
+    margin-left: 800px;
+}
+.container img {
+    margin-left: 600px;
+}
+.first {
+    background-color: chocolate;
+}
+.second {
+    background-color: yellowgreen;
+}
+.third {
+    background-color: turquoise;
+    padding-top: 150px;
+}
